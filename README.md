@@ -23,9 +23,9 @@
   margin-right: auto;" >
 
 
-![](5.png)
+![](5.jpg)
 
-![](6.png)
+![](6.jpg)
 
 
 </div>
